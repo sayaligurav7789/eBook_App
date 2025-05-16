@@ -61,14 +61,18 @@ For any questions or suggestions, please contact:
 ---
 Screenshots:
 <p float="left">
-  <img src="https://github.com/user-attachments/assets/5620e45a-31a0-4cb1-85ba-0be5d71418da" width="200" />
-  <img src="https://github.com/user-attachments/assets/64917957-bdec-4b56-b073-59d6ef7083ec" width="200" />
+  <img src="https://github.com/user-attachments/assets/5620e45a-31a0-4cb1-85ba-0be5d71418da" width="400" />
+  <img src="https://github.com/user-attachments/assets/64917957-bdec-4b56-b073-59d6ef7083ec" width="400" />
 </p>
 
 <p float="left">
-  <img src="https://github.com/user-attachments/assets/b31efc15-d09c-4443-bd49-139ff41d4d1d" width="200" />
-  <img src="https://github.com/user-attachments/assets/10edfac7-3deb-45b2-9f09-36b437b261f9" width="200" />
+  <img src="https://github.com/user-attachments/assets/55286bab-5a60-4f9b-a31f-582cb3746b36" width="400" />
+
+  <img src="https://github.com/user-attachments/assets/b31efc15-d09c-4443-bd49-139ff41d4d1d" width="400" />
 </p>
+<p float="left">
+ <img src="https://github.com/user-attachments/assets/10edfac7-3deb-45b2-9f09-36b437b261f9" width="400" />
+ </p>
 
 
 *Happy reading! 📚*
