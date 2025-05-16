@@ -1,4 +1,4 @@
-````markdown
+
 # 📖📖eBook App📖📖
 
 A Flutter-based mobile application to browse, read, and manage eBooks efficiently.
@@ -13,9 +13,6 @@ A Flutter-based mobile application to browse, read, and manage eBooks efficientl
 - Bookmark pages and resume reading.
 - Offline reading support.
 
-## Screenshots
-
-*(Add screenshots here by placing images in your repo and using markdown image syntax)*
 
 ## Getting Started
 
