@@ -59,6 +59,14 @@ For any questions or suggestions, please contact:
 * GitHub: [https://github.com/sayaligurav7789](https://github.com/sayaligurav7789)
 
 ---
+Screenshots:
+![image](https://github.com/user-attachments/assets/5620e45a-31a0-4cb1-85ba-0be5d71418da)
+
+![image](https://github.com/user-attachments/assets/64917957-bdec-4b56-b073-59d6ef7083ec)
+
+![image](https://github.com/user-attachments/assets/b31efc15-d09c-4443-bd49-139ff41d4d1d)
+
+![image](https://github.com/user-attachments/assets/10edfac7-3deb-45b2-9f09-36b437b261f9)
 
 *Happy reading! 📚*
 
